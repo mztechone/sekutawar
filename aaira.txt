@@ -55,13 +55,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 group-title="myFreeview" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
-
 EXTINF:-1 tvg-id="Astro Ria HD" ch-number="104" tvg-name="Astro Ria" group-title="Astro" tvg-id="104" ch-number="104" tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
