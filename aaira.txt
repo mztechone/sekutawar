@@ -1,0 +1,61 @@
+#EXTM3U url-tvg=https://epg.kampung.xyz/IPTV.xml
+
+#EXTM3U url-tvg=https://weareblahs.github.io/epg/astro.xml
+#EXTM3U url-tvg=https://weareblahs.github.io/epg/unifitv.xml
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
+#EXTM3U url-tvg="https://aqfadtv.xyz/epg"
+#EXTM3U url-tvg=https://bit.ly/3itZsSm"
+#EXTM3U url-tvg=https://bit.ly/aqfadtvepg"
+#EXTM3U url-tvg="https://link.zozotv.xyz/epgtvku.xml"
+#EXTM3U url-tvg="http://my.odtv.uk:80,http://tmlive.cc:8080"
+#EXTM3U url-tvg="http://www.wdhd.dynu.net"
+#EXTM3U url-tvg="https://stavol.masuk.web.id/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+#EXTM3U xurl-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml"
+#EXTM3U url-tvg="https://link.zozotv.xyz/epgtvku.xml"
+#EXTM3U url-tvg="http://103.152.118.53:80/local/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U url-tvg="https://bit.ly/htbiptv"
+
+
+
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+#########🫰🇲🇾 CHANNEL ASTRO+ASTROK+ASTROX+MYFREEVIEW+INDON+SINGAPORE 🇲🇾🫰##############
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+
+##£#£##### TEST👇TEST👇TEST👇CHANNEL #######££££
+banyak penat oOOo... pagi siang malam🥲😴🥵
+senang².. enak².. jer kamu sedut copy ye! hmmm
+
+
+#EXTINF:-1 tvg-name="TV1" tvg-id="TV1" group-title="Freeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+
+#EXTINF:-1 tvg-name="TV2" tvg-id="TV2" group-title="Freeview" ch-number="102" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+
+#EXTINF:-1 tvg-name="TV3" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+
+
+
+#EXTM3U billed-msg="IPTV By:JoMie-JoSHiRo😎BuyMe KoFi☕paypal.me/codemalaya🥰🇲🇾"
