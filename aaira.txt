@@ -50,6 +50,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mp
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
+#EXTINF:-1 tvg-id="101.astro" tvg-name="TV1" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" ch-number="101",101 TV1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={  "keys":[  {  "kty":"oct","k":"vqLQ+J+z+6+h/J80uoc0pg","kid":"kSdgxAnrWv8+BgQixQL0EA"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+
 #EXTINF:-1 tvg-name="TV2" tvg-id="TV2" group-title="Astro" ch-number="102" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png",TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
