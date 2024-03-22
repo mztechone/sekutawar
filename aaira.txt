@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://azimabid00.github.io/epg/unifi_epg.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/malaysiapremium1.xml" refresh="1"
+
 ©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 ©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 #########🫰🇲🇾 CHANNEL ASTRO+ASTROK+ASTROX+MYFREEVIEW+INDON+SINGAPORE 🇲🇾🫰##############
@@ -145,4 +147,3 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 
 #EXTM3U billed-msg="| ⚙️: Ver.4.2 | 🎭: GO_OTT | 🔜: 2029-00-00 00:00:00"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://azimabid00.github.io/epg/unifi_epg.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/malaysiapremium1.xml" refresh="1"
