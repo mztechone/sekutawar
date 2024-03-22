@@ -598,6 +598,17 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Z3aYWTizMhZLl7gf5WajSg","kid":"79pkfa1yNWO2Jb6MBe5hEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
+#EXTINF:-1 tvg-id="Astro Arena 2 HD" tvg-name="Astro Arena 2 HD" group-title="01. AOTG All;06. Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" ch-number="802",802 Astro Arena 2 FHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Arena Bola" tvg-name="Arena Bola" group-title="01. AOTG All;06. Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" ch-number="803",803 Arena Bola FHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik56RTNaRGcxTWpFdFpqZGtNeTAwTm1VeExXSXdaakl0T0dZd05XWmlNbVUzTURGayIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTg2NjgxNCwiaWF0IjoxNzAxMjYyODE0fQ.DXsXku8bRqf1fy5Ol-2DPZjhEbdPdd0nRmmqJZzWRnI"}
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
 #EXTINF:-1 tvg-id="Arena Bola 2" tvg-name="Arena Bola 2" group-title="01. AOTG All;06. Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" ch-number="804",804 Astro Arena Bola 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
