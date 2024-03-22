@@ -37,7 +37,7 @@
 banyak penat oOOo... pagi siang malam🥲😴🥵
 senang².. enak².. jer kamu sedut copy ye! hmmm
 
-#EXTINF:-1 tvg-id="101.astro" tvg-name="TV1" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" ch-number="101",101 TV1 FHD
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" ch-number="101",101 TV1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={  "keys":[  {  "kty":"oct","k":"vqLQ+J+z+6+h/J80uoc0pg","kid":"kSdgxAnrWv8+BgQixQL0EA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
