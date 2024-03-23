@@ -108,10 +108,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_primary.m
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
 
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="01. AOTG All;02. Bahasa Malaysia" ch-number="148",148 NTV7
-#KODIPROP:inputstream.adaptive.license_type=dash
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
-https://unifi-live02.secureswiftcontent.com/UnifiHD/live08.mpd
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="01. AOTG All;02. Bahasa Malaysia" ch-number="148",148 8TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" ch-number="149",149 TV9 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
