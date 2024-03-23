@@ -700,8 +700,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default_primary.m
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Cricket_v1.png" group-title="01. AOTG All;06. Sports" ch-number="824",824 Astro Cricket FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zYTtE2sMxx+KuM1NT2ouTA","kid":"A8Lgry+BWfnwzptdvIZfEA"}],"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTM3U billed-msg="| ⚙️: Ver.5.0 | 🎭: AAIRATV | 🔜: 2029-00-00 00:00:00"
