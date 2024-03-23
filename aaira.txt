@@ -245,7 +245,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/506/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y54aEi7RxkRffT/SFiNY8Q","kid":"/hIZAZqfNs3vNHCI5ZLKEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroAODHD" tvg-chno="311" tvg-name="Astro_AOD_HD_311" group-title="01. AOTG All;03. Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" ch-number="311",311 Astro AOD 311
+#EXTINF:-1 tvg-id="AstroAODHD" tvg-name="Astro_AOD_HD_311" group-title="01. AOTG All;03. Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" ch-number="311",311 Astro AOD 311
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F24pOLznldHIVVmiRAR39w","kid":"KGrvTo2F22bgX+Slx5nkEA"}],"type":"temporary"}
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
