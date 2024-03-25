@@ -512,6 +512,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.m
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" group-title="01. AOTG All;08. Kids" tvg-logo="https://i.postimg.cc/kgdvsbqd/Kids-TV.png" ch-number="631",631 KIDS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.postimg.cc/kgdvsbqd/Kids-TV.png", KIDS TV
+http://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
 ///// ENTERTAINMENT /////
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" group-title="01. AOTG All;11. Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",701 AXN FHD
