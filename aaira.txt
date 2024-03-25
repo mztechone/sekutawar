@@ -104,9 +104,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_primary.m
 
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="01. AOTG All;02. Bahasa Malaysia" ch-number="147",147 NTV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"FyYINQnVcLXeRzCrnzOMww","kid":"5QlzW1+JdQ1CrOJBDq1yEA" }],"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="01. AOTG All;02. Bahasa Malaysia" ch-number="148",148 8TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
