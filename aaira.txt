@@ -704,7 +704,7 @@ https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index
 tvg-id="TV6" group-title="Freeview" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-id="HyppInspirasi" tvg-name="HyppInspirasi" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png" ch-number="152",152 Inspirasi FHD
+#EXTINF:-1 tvg-id="118" tvg-name="Inspirasi" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png" ch-number="152",152 Inspirasi FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
