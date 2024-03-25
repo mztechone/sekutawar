@@ -44,11 +44,10 @@ https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHQBBTFgAj9nDYsaB
 #EXTVLCOPT:http-referrer=https://02d13e52-6540-28a2-8eac-7434f56a77bd.ref
 https://linears-playback.astro.com.my/vsg/41k5piW7fDOXyn3bkrCuzrflSYUpPPKhup247mBk7tqwQ=4myW/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroOasis" tvg-id="Astro_Oasis_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" group-title="01. AOTG All;02. Bahasa Malaysia" ch-number="106",106 Astro Oasis HD
+#EXTINF:-1 tvg-id="AstroOasis" tvg-id="Astro_Oasis_HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="01. AOTG All;02. Bahasa Malaysia" ch-number="106",106 Astro Oasis FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XzX4FWmRQOJknYJfDSQCjg","kid":"F9XWLcYZVLgu4BbaJkq9EA"}],"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro_Warna_HD" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna FHD A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
