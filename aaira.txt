@@ -681,15 +681,40 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
+#EXTINF:-1 tvg-id="BOLLYWOOD HD" tvg-name="BOLLYWOOD HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="01. AOTG All;04. Indian" ch-number="260",260 BOLLYWOOD HD FHD
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+
+************MYTV************
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" ch-number="150",150 TV6 FHD
+tvg-id="TV6" group-title="Freeview" ch-number="113" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 tvg-id="HyppInspirasi" tvg-name="HyppInspirasi" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png" ch-number="152",152 Inspirasi FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
+https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" ch-number="153",153 Suria FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e 
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
 ************INDONESIA************
 
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-name"RTV." group-title="01. AOTG All;14. Indonesia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="621",621 RTV
+#EXTINF:-1 tvg-id="Dunia Sinema" tvg-name="Dunia Sinema" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" ch-number="151",151 Dunia Sinema FHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-name"RTV." group-title="01. AOTG All;14. Indonesia" tvg-logo="https://static.mncnow.id/images/channel/79b8e2c9-bdb.png" ch-number="621",621 RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-name"GTV." group-title="01. AOTG All;14. Indonesia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="622",622 GTV
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-name"GTV." group-title="01. AOTG All;14. Indonesia" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/webp/photo/2020/10/07/3782109872.jpg" ch-number="622",622 GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
