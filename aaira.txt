@@ -102,7 +102,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5107/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
-#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NTV7_v1.png" group-title="01. AOTG All;02. Bahasa Malaysia" ch-number="147",147 NTV7
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="01. AOTG All;02. Bahasa Malaysia" ch-number="147",147 NTV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"FyYINQnVcLXeRzCrnzOMww","kid":"5QlzW1+JdQ1CrOJBDq1yEA" }],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
