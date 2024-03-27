@@ -726,31 +726,56 @@ https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e 
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
-####################### ASTRO MALAYSIA - MYTV UNIFI #######################
-©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
-
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="01. AOTG All;08. Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" ch-number="630",630 Animax FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#EXTINF:-1 tvg-id="472" tvg-name="Animax" group-title="01. AOTG All;08. Kids" tvg-logo="http://playtv.unifi.com.my:7038/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png" ch-number="632",632 Animax FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 tvg-id="472.unifi" tvg-logo="http://playtv.unifi.com.my:7038/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png" group-title="15. UnifiTV",Animax HD
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.182_80&hms_devid=1791&mag_hms=1791,1794&mount=1000002&targetdev=1791&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUfRzzV08FUEXCVZd41O_iWCTdA3697EIur_Pu1T0dDoYVBLVMOxABdX1wqHuQDjSOEktUPes0dMWo5jHnNMcbQkbu437uxRccADJJbDLtjtmjAa-pX09HNU_G6muyZMJbeIrNo4xVoq4pDLzc8b3teZf8gFofYCWmQAAAA
+
+#EXTINF:-1 tvg-id="Dunia Sinema" tvg-name="Dunia Sinema" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" ch-number="151",151 Dunia Sinema FHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="471" tvg-name="GEM" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png" ch-number="152",152 GEM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
+
+#EXTINF:-1 tvg-id="118" tvg-name="Inspirasi" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" ch-number="153",153 Inspirasi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#EXTINF:-1 tvg-id="120" tvg-name="DEGUP" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" ch-number="154",154 Degup
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.155_80&hms_devid=1790&mag_hms=1790,1787,1745,1796&it=H4sIAAAAAAAAA0XMwQoCIRRA0b9xKWo65sJVEbSRYKptPJ8mgo2k00B_HxNB-3vu3ADjcW8N96gVDCKgkigNSOTaaKZgOzDuGenx6ardEIRS8pRcDSu7jrsbZ5RRITjlgpzX3aFAsuJbutfDx_ZnY2xLxmhDv9MFOoWUWkww5zrRU4H3pZVf8gGHHZ9cmQAAAA
+
+#EXTINF:-1 tvg-id="141" tvg-name="Pesona" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" ch-number="155",155 Pesona HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&ocs=2_1.9.62.158_80&hms_devid=1790&mag_hms=1790,1793,1800,1745&it=H4sIAAAAAAAAA0XMwQoCIRRA0b-ZpejLsVy4KoI2Eky1jae-EcFG0mmgv4-JoP09d67o6XQwzilFoKEnDTIo6UQguXNbP3KnqZddo6ctZtN5zDlN0ZawstuwvwvOOAMQTEB3WXfHjNHAt7Svh6P6ZwPVJXkyoY1swcYwxkoR51Qmds74vtb8Sz4icfuhmQAAAA
+
+#EXTINF:-1 tvg-id="113" tvg-name="Salam" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" ch-number="156",156 Salam HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
+https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=R3%2BAuIuUz4gD7scy%2B3YHn6KR1yPe228YzWzrfjAMZLB0b9Rc5ghCDDf%2FvKGI0ldrihfm3ip%2FEFNlF7GXRWgou%2Bi6CQbKA34OIg5E7RQmhVuXUa7p19AiNlG2IwzWT7mo%3A20240213233014%3AUTC%2C10001004301354%2C118.100.193.132%2C20240213233014%2Curn:Huawei:liveTV:iptv47777%2C10001004301354%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000106934758%2C0%2C10000104656421%2C1742300974%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7CMBBE_8ZHy-s4OBx8AiFVQgGJtFe02Gs3wonBDkj9-5I2XGfmjd6U0dLH1jSu0sp55SqplfRijQB-5SyoGtZSC1bo3iYjmcUY-zG0yc3Y12lzBsEFlxI4VKyb73YRw7JsH8OFsoE3dqL87C0ZVzx_YuEYQqaAU59Gfoz485njMmHULWqghW6aalVLJRWb5rTDcn017BvLJg03zOT2KfwBxmMsxG5orxioxYHM-Ijxnztk97L5BZUxCr30AAAA&tenantId=6003
+
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### INDONESIA #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 
 #EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" group-title="01. AOTG All;08. Kids" tvg-logo="https://i.postimg.cc/kgdvsbqd/Kids-TV.png" ch-number="631",631 KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-
-#EXTINF:-1 tvg-id="Dunia Sinema" tvg-name="Dunia Sinema" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" ch-number="151",151 Dunia Sinema FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-name"RTV." group-title="01. AOTG All;14. Indonesia" tvg-logo="https://static.mncnow.id/images/channel/79b8e2c9-bdb.png" ch-number="621",621 RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
