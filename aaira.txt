@@ -1,19 +1,8 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml"
-#EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml"
-#EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" billed-msg="WELCOME TO AAIRATV"   
 
 ©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - BAHASA MALAYSIA #######################
 ©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
-#########🫰🇲🇾 CHANNEL ASTRO+ASTROK+ASTROX+MYFREEVIEW+INDON+SINGAPORE 🇲🇾🫰##############
-©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
-©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
-
-##£#£##### TEST👇TEST👇TEST👇CHANNEL #######££££
-banyak penat oOOo... pagi siang malam🥲😴🥵
-senang².. enak².. jer kamu sedut copy ye! hmmm
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1_HD" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" ch-number="101",101 TV1 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,6 +108,10 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - INDIAN #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+
 #EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="01. AOTG All;04. Indian" ch-number="201",201 Astro Vaanavil FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -192,6 +185,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - CHINESE #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 
 #EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI_HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="01. AOTG All;03. Chinese" ch-number="300",300 iQIYI FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -285,6 +282,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/700/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
 
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - KOREAN #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World HD" tvg-logo="https://www.astro-com.my/wp-content/uploads/2016/01/Astro-KBS-World-HD-Ch392.png" group-title="01. AOTG All;05. Korean" ch-number="392",392 KBS World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6txiarlZJV96uIHAPTBv4g","kid":"aSlQ05hpySr5qd3qRTwNEA"}],"type":"temporary"}
@@ -309,6 +310,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RLQjp33TSs4WLbNcuw+2ow", "kid":"mIF7FEvPGf0N3Kf+VM7hEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
+
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - MOVIES #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 
 #EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITS Movies HD" group-title="01. AOTG All;07. Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" ch-number="401",401 HITS Movies FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -354,6 +359,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0SzOuvu6KlNdiKMIf4hCUg","kid":"jiaciqMq1364MGgxI0PWEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - NEWS #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani HD" ch-number:"501" group-title="01. AOTG All;02. Bahasa Malaysia;10. News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" ch-number="501",501 Astro Awani FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -420,6 +429,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default_primary.mpd
 
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - Life Style & DOCUMENTARY #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+
 #EXTINF:-1 tvg-id="LoveNature4K" tvg-name="Love Nature 4K" group-title="01. AOTG All;13. Life Style" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/461_144.png" ch-number="549",549 Love Nature 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"btySxJvoTKei8ye+r7zK5g","kid":"Gv3K9BmL/TIAWERp/D5REA" }],"type":"temporary"}
@@ -462,12 +475,16 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TU1NncQb5D9SiklAz2bxTA","kid":"1RmfFROgKG4Dja6PfYIAEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroTutorTVSK" tvg-name="Astro Tutor TV SK" group-title="01. AOTG All;09. Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png" ch-number="601",601 Astro Tutor TV SK FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CtHnstcf1zpcGZc55TTaSw","kid":"iLMk5+djUyt3DYTTcNfIEA"}],"type":"temporary"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - KIDS #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 
-#EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="TUTOR TV" group-title="01. AOTG All;09. Education" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png" ch-number="603",603 Astro Tutor TV SMK FHD
+#EXTINF:-1 tvg-id="AstroTutorTVSK" tvg-name="Astro Tutor TV SK" group-title="01. AOTG All;09. Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png" ch-number="601",601 Astro Tutor TV SK FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rtncAgOHJarb0Me9FwkkCw","kid":"iCm49NkdJjDzmMZ+2UwjEA"}],"type":"temporary"}
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="TUTOR TV" group-title="01. AOTG All;09. Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png" ch-number="603",603 Astro Tutor TV SMK FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rtncAgOHJarb0Me9FwkkCw","kid":"iCm49NkdJjDzmMZ+2UwjEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
@@ -507,19 +524,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="01. AOTG All;08. Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" ch-number="630",630 Animax FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" group-title="01. AOTG All;08. Kids" tvg-logo="https://i.postimg.cc/kgdvsbqd/Kids-TV.png" ch-number="631",631 KIDS TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-
-///// ENTERTAINMENT /////
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - ENTERTAINMENT #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" group-title="01. AOTG All;11. Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",701 AXN FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -590,6 +597,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default_primary.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IvlkptaSfM26SC53XN/xkA","kid":"OsJUKk9750ZjPbB2R0UXEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - SPORT #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="01. AOTG All;06. Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" ch-number="801",801 Astro Arena FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -696,10 +707,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-id="BOLLYWOOD HD" tvg-name="BOLLYWOOD HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="01. AOTG All;04. Indian" ch-number="260",260 BOLLYWOOD HD FHD
-https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - MYTV UNIFI #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 
-************MYTV************
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" ch-number="150",150 TV6 FHD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
@@ -715,7 +726,21 @@ https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e 
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-************INDONESIA************
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+####################### ASTRO MALAYSIA - MYTV UNIFI #######################
+©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="01. AOTG All;08. Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" ch-number="630",630 Animax FHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" group-title="01. AOTG All;08. Kids" tvg-logo="https://i.postimg.cc/kgdvsbqd/Kids-TV.png" ch-number="631",631 KIDS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-id="Dunia Sinema" tvg-name="Dunia Sinema" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" ch-number="151",151 Dunia Sinema FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -734,4 +759,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTM3U billed-msg="| ⚙️: Ver.5.0 | 🎭: AAIRATV | 🔜: 2029-00-00 00:00:00"
+#EXTINF:-1 tvg-id="BOLLYWOOD HD" tvg-name="BOLLYWOOD HD" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg" group-title="01. AOTG All;04. Indian" ch-number="260",260 BOLLYWOOD HD FHD
+https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+
+#EXTM3U billed-msg="| ⚙️: Ver.5.0 | 🎭: AAIRATV | ⚠️: ID FREE | ⛔: TIDAK BENARKAN JUAL"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml" refresh="1"
+
