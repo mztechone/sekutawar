@@ -479,12 +479,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default_primary.m
 ####################### ASTRO MALAYSIA - KIDS #######################
 ©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 
-#EXTINF:-1 tvg-id="AstroTutorTVSK" tvg-name="Astro Tutor TV SK" group-title="01. AOTG All;09. Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png" ch-number="601",601 Astro Tutor TV SK FHD
+#EXTINF:-1 tvg-id="AstroTutorTVSK" tvg-name="Astro Tutor TV SK" group-title="01. AOTG All;08. Kids;02. Bahasa Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png" ch-number="601",601 Astro Tutor TV SK FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rtncAgOHJarb0Me9FwkkCw","kid":"iCm49NkdJjDzmMZ+2UwjEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="TUTOR TV" group-title="01. AOTG All;09. Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png" ch-number="603",603 Astro Tutor TV SMK FHD
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="TUTOR TV" group-title="01. AOTG All;08. Kids;02. Bahasa Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png" ch-number="603",603 Astro Tutor TV SMK FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rtncAgOHJarb0Me9FwkkCw","kid":"iCm49NkdJjDzmMZ+2UwjEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
