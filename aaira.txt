@@ -750,7 +750,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 #EXTINF:-1 tvg-id="121" tvg-name="Siar" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" ch-number="153",153 Siar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="121.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="15. UnifiTV",SIAR
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #EXTINF:-1 tvg-id="120" tvg-name="DEGUP" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" ch-number="154",154 Degup
