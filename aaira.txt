@@ -747,10 +747,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
-#EXTINF:-1 tvg-id="118" tvg-name="Inspirasi" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" ch-number="153",153 Inspirasi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
+#EXTINF:-1 tvg-id="121" tvg-name="Siar" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" ch-number="153",153 Siar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="121.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-title="15. UnifiTV",SIAR
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #EXTINF:-1 tvg-id="120" tvg-name="DEGUP" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" ch-number="154",154 Degup
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -765,7 +766,12 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227615/32
 #EXTINF:-1 tvg-id="113" tvg-name="Salam" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" ch-number="156",156 Salam HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
-https://web.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=R3%2BAuIuUz4gD7scy%2B3YHn6KR1yPe228YzWzrfjAMZLB0b9Rc5ghCDDf%2FvKGI0ldrihfm3ip%2FEFNlF7GXRWgou%2Bi6CQbKA34OIg5E7RQmhVuXUa7p19AiNlG2IwzWT7mo%3A20240213233014%3AUTC%2C10001004301354%2C118.100.193.132%2C20240213233014%2Curn:Huawei:liveTV:iptv47777%2C10001004301354%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000106934758%2C0%2C10000104656421%2C1742300974%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7CMBBE_8ZHy-s4OBx8AiFVQgGJtFe02Gs3wonBDkj9-5I2XGfmjd6U0dLH1jSu0sp55SqplfRijQB-5SyoGtZSC1bo3iYjmcUY-zG0yc3Y12lzBsEFlxI4VKyb73YRw7JsH8OFsoE3dqL87C0ZVzx_YuEYQqaAU59Gfoz485njMmHULWqghW6aalVLJRWb5rTDcn017BvLJg03zOT2KfwBxmMsxG5orxioxYHM-Ijxnztk97L5BZUxCr30AAAA&tenantId=6003
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#EXTINF:-1 tvg-id="411" tvg-name="Salam" group-title="01. AOTG All;02. Bahasa Malaysia" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202206/20220630/20220630155939789lm4.png" ch-number="157",157 Cinema HD
+###KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+###KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+###https://m.ott-1.xyz/u_411.mpd?uuid=02d13e52-6540-28a2-8eac-7434f56a77bd
 
 ©®©®©®©®®®®®©®©®©®©®©®®©®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®©®©®©®®®©®®®®©®©©®©®©®©©®®
 ####################### INDONESIA #######################
