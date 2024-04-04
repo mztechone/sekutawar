@@ -641,6 +641,19 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://www.example.com
 
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Supersport 3 HD" group-title="01. AOTG All;06. Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" ch-number="813",813 Astro SuperSport 3 FHD C
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://salamus2023.onlinehdhls.ru/ddh2/premium125/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Supersport 3 HD" group-title="01. AOTG All;06. Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" ch-number="813",813 Astro SuperSport 3 FHD D
+#EXTVLCOPT:http-referrer=https://donut.maedasports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://123dasjdasui312989712.kawaguchimaeda.my.id:2008/10/masterCH5.mpd
+
+
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Supersport 4 HD" group-title="01. AOTG All;06. Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" ch-number="814",814 Astro SuperSport 4 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
