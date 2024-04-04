@@ -197,17 +197,17 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1006/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kzric7Fmuqj7ID7vGnrb3w","kid":"BxRIaQoOybJ+ssGn1eAwEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 
-###EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro_AEC_HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png" group-title="ASTRO AOTG" ch-number="306",306 Astro AEC HD
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"6fKn4EJ/Y7qabQxl2vQPmg","kid":"ekpB3aNZlA5sjC/xIj13EA" }],"type":"temporary"}
-###EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-###https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroQJ" tvg-name="Astro_QJ" group-title="ASTRO AOTG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" ch-number="308",308 Astro QJ FHD
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro_AEC_HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AEC_v1.png" group-title="ASTRO AOTG" ch-number="306",306 Astro AEC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/2507/default.mpd
-http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"6fKn4EJ/Y7qabQxl2vQPmg","kid":"ekpB3aNZlA5sjC/xIj13EA" }],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd
+
+###EXTINF:-1 tvg-id="AstroQJ" tvg-name="Astro_QJ" group-title="ASTRO AOTG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" ch-number="308",308 Astro QJ FHD
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
+###https://linearjitp02-playback.astro.com.my/dash-wv/linear/2507/default.mpd
+###http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestrial_Movies_HD" group-title="ASTRO AOTG" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" ch-number="309",309 Celestrial Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
