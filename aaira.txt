@@ -402,10 +402,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/900/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eaBEsw1k9cN+bUXVA8uygA","kid":"2xNDVFriXd7PjfpEIvNUEA"}],"type":"temporary"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 
-#EXTINF:-1 tvg-id="641.unifi" tvg-name="ABC Australia HD" group-title="ASTRO AOTG" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" ch-number="518",518 ABC Australia FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/904
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/904/default_primary.mpd
+###EXTINF:-1 tvg-id="641.unifi" tvg-name="ABC Australia HD" group-title="ASTRO AOTG" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" ch-number="518",518 ABC Australia FHD
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/904
+###https://linearjitp02-playback.astro.com.my/dash-wv/linear/904/default_primary.mpd
 
 #EXTINF:-1 tvg-id="DW" tvg-name="DW English" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="ASTRO AOTG" ch-number="521",521 DW English FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -597,16 +597,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.m
 
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Arena Bola" group-title="ASTRO AOTG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" ch-number="803",803 Arena Bola FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5098/default_ott.mpd
-#https://linears-playback.astro.com.my/vsg/41fFn92i8Rz8Ta4Ju4NW5pL2r5AVg6O7bxK90J-aiBr7U=_mNo/dash-wv/jitp-linearwm/5099/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://s-gd.stackstaging.com/linearjitp.astro.com.my/sooker/sookabola1
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9ESXpabUZpWm1RdE1ESTVaQzAwTTJSaExXRTVOemd0Wm1Oa1pEZzBZV0ZpTUdZMiIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjM5MDE5MSwiaWF0IjoxNzExNzg2MTkxfQ.m4nmgJXyRdGvWIltVy9NMUsziLyVPN801cnYScCh45w
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Arena Bola 2" group-title="ASTRO AOTG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" ch-number="804",804 Astro Arena Bola 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"se/6nlHPOLOuZ2vCZJN++w","kid":"Yqe3kXqtUSPNTfZcVhxwEA"}],"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://linears-playback.astro.com.my/vsg/41h0LfIizynz_nYJQ9Y78Tzt59T5cXfO0Gy6g6MNh8UuE=UIUA/dash-wv/jitp-linearwm/5100/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://s-gd.stackstaging.com/linearjitp.astro.com.my/sooker/asbola2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9ESXpabUZpWm1RdE1ESTVaQzAwTTJSaExXRTVOemd0Wm1Oa1pEZzBZV0ZpTUdZMiIsIndtb3BpZCI6MzIsImV4cCI6MTcxMjM5MDE5MSwiaWF0IjoxNzExNzg2MTkxfQ.m4nmgJXyRdGvWIltVy9NMUsziLyVPN801cnYScCh45w
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD 1" tvg-name="Astro Supersport UHD 1" group-title="ASTRO AOTG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" ch-number="805",805 Astro SuperSport UHD FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
